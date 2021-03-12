@@ -1,1 +1,1 @@
-Worker: node ./src/fnf.js
+Worker: node ./src/bot.js
