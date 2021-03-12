@@ -1,7 +1,7 @@
 const Discord = require('discord.js')
 const client = new Discord.Client()
 const config = require('./config.json')
-client.login('ODE5Nzg1NDc2MzExNDgyMzc4.YErquA.LWaFcyZwV-SuesYOKXatqlPNRJc')
+client.login(config.token)
 const emoji = require('node-emoji');
 const airplane = emoji.get('airplane');
 
