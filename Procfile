@@ -1,1 +1,1 @@
-web: node fnf.js
+worker: node ./src/fnf.js
